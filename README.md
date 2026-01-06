@@ -34,5 +34,5 @@ The project includes unit tests that verify:
 
 Author
 
-Jackson Champion**
+Jackson Champion
 
