@@ -31,8 +31,3 @@ The project includes unit tests that verify:
 * Win condition detection
 * Boundary cases and invalid moves
 
-
-Author
-
-Jackson Champion
-
